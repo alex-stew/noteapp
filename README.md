@@ -1,4 +1,4 @@
-# noteapp   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")n/
+# noteapp   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
