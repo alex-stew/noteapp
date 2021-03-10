@@ -35,7 +35,7 @@ app.post('/api/notes', (req, res) => {
         if (err) {
             console.log(err);
         } else {
-            var note = JSON.parse(data);
+            let note = JSON.parse(data);
             const newNote = req.body;
             newNote.id = uniqid();
             note.push(newNote);
