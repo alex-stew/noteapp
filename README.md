@@ -1,4 +1,10 @@
 # noteapp
+Landing Page
+![Screen Shot 2021-03-10 at 1 14 33 pm](https://user-images.githubusercontent.com/69836062/110568329-bd90ca80-81a2-11eb-8626-9d1aa5e023ac.png)
+Application in action
+![Screen Shot 2021-03-10 at 1 15 22 pm](https://user-images.githubusercontent.com/69836062/110568337-c08bbb00-81a2-11eb-95c6-79036c4eb995.png)
+
+Live deployed app: https://lit-fortress-52343.herokuapp.com/
 
   ## Table of Contents
   - [Description](#description)
