@@ -1,4 +1,4 @@
-# noteapp
+# noteapp   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")n/
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -7,7 +7,7 @@
   - [Questions](#questions)
 
   ## Description:
-  ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
+
     This is an app that helps you to store your todos, shopping lists and inner most musings!! With a fully responsive design you can literally view these notes  from anywhere..
     
 Application landing Page:
